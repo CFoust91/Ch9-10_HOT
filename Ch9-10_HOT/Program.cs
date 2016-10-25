@@ -13,7 +13,7 @@ namespace Ch9_10_HOT
 
             BankLoan newLoan = new BankLoan();
 
-
+            //
 
             double loan;
             do
